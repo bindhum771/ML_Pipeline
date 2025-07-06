@@ -9,7 +9,7 @@ A simple end-to-end machine learning pipeline using Pandas and Scikit-learn:
 
 ## 📂 Structure
 - `pipeline.py`: main script
-- `data/cleaned_pipeline_file.csv`: dataset
+- `cleaned_pipeline_file.csv`: dataset
 - `outputs/confusion_matrix.png`: saved plot
 - `models/trained_model_pipeline.pkl`: saved model
 
@@ -23,3 +23,6 @@ python pipeline.py
 - Prints accuracy
 - Saves confusion matrix
 - Saves trained model for reuse
+
+## Screenshots
+![Screenshot (57)](https://github.com/user-attachments/assets/848f9836-d89e-4dd4-9927-6d4f2370c8e5)
