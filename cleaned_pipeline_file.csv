@@ -1,0 +1,6 @@
+age,salary,department,role,target
+25,50000,HR,Analyst,1
+30,60000,Engineering,Manager,0
+45,80000,HR,Analyst,1
+35,72000,Finance,Lead,0
+40,65000,Engineering,Manager,1
